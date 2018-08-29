@@ -1,0 +1,28 @@
+{
+  "name": "angularprojectgithub",
+  "version": "1.0.0",
+  "description": "This is an angular project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdilAli23/angularproject.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack"
+  ],
+  "author": "Arif Hassan Arif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdilAli23/angularproject/issues"
+  },
+  "homepage": "https://github.com/AdilAli23/angularproject#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.10"
+  }
+}
